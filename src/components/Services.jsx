@@ -53,21 +53,9 @@ const Services = () => {
 
           <div className="px-5 pt-8">
             <h2 className="text-base md:text-lg text-stone-200 landing-7">
-              A Estimulação Magnética Transcraniana (EMT) é uma técnica médica não invasiva 
-              que envolve a aplicação de campos magnéticos focados no cérebro
-              para influenciar a atividade cerebral. Eis uma breve explicação sobre como
-              a EMT funciona e os benefícios que os visitantes podem esperar:
+              A Estimulação Magnética Transcraniana (EMT) é uma técnica médica não invasiva que utiliza campos magnéticos focados para influenciar a atividade cerebral. Ela oferece benefícios potenciais, como tratamento da depressão resistente, redução de sintomas de ansiedade, gerenciamento de dor crônica, tratamento de enxaquecas e investigações em várias condições neuropsiquiátricas. A EMT é uma terapia personalizável, não invasiva e adaptável às necessidades dos pacientes. Consultar um profissional de saúde é necessário para determinar a adequação e o planejamento do tratamento.
             </h2>
-
-            <h2 className="text-base font-bold text-stone-200 mt-5">
-              Como a EMT funciona:
-            </h2>
-
-            <p className="text-base text-stone-200 mt-5">
-              A EMT utiliza uma bobina magnética para gerar pulsos magnéticos de alta intensidade, que são direcionados para áreas específicas do cérebro. Esses pulsos magnéticos induzem correntes elétricas breves e focadas no cérebro, estimulando ou inibindo a atividade neuronal nas áreas-alvo.
-            </p>
-
-            <h2 className="text-base font-bold text-stone-200 mt-5">Benefícios potenciais da EMT:</h2>
+            <h2 className="text-2xl font-bold text-stone-200 mt-5">Benefícios potenciais da EMT:</h2>
 
             <p className="text-base text-stone-200 mt-5">A Estimulação Magnética Transcraniana é usada para uma variedade de finalidades terapêuticas e pode oferecer os seguintes benefícios:</p>
             

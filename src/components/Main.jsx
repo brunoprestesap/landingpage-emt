@@ -9,7 +9,7 @@ const Main = () => {
       {/* Container main */}
       <div className="w-full h-screen absolute top-0 left-0 bg-white/50 justify-center">
         <div className="w-full p-5">
-          <h1 className="text-3xl font-bold text-blue-900">Instituto Amaparo</h1>
+          <h1 className="text-3xl font-bold text-blue-900">Instituto Amparo</h1>
         </div>
 
         <div className="max-w-[850px] m-auto h-96 px-5 w-full absolute bottom-28 md:bottom-24">
