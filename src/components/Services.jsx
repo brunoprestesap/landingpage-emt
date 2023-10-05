@@ -41,7 +41,7 @@ const Services = () => {
 
   return (
     <div id="services">
-      <div className="bg-blue-900 px-5 py-8 grid grid-cols-1 xl:grid-cols-2">
+      <div className="bg-[#283618] px-5 py-8 grid grid-cols-1 xl:grid-cols-2">
         <div className="w-full xl:px-16">
           <div className="border-l-2 border-stone-100 p-5">
             <h2 className="text-stone-200 font-bold text-4xl md:text-6xl">

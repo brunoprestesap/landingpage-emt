@@ -9,15 +9,15 @@ const Main = () => {
       {/* Container main */}
       <div className="w-full h-screen absolute top-0 left-0 bg-white/50 justify-center">
         <div className="w-full p-5">
-          <h1 className="text-3xl font-bold text-blue-900">Instituto Amparo</h1>
+          <h1 className="text-3xl font-bold text-[#283618]">Instituto Amparo</h1>
         </div>
 
         <div className="max-w-[850px] m-auto h-96 px-5 w-full absolute bottom-28 md:bottom-24">
-          <div className="border-l-4 border-blue-800 p-2">
-            <h1 className="text-3xl md:text-5xl font-bold text-blue-800">
+          <div className="border-l-4 border-[#283618] p-2">
+            <h1 className="text-4xl md:text-6xl font-bold text-[#283618]">
               Estimulação Magnética Transcraniana - EMT.
             </h1>
-            <h2 className="text-base mt-2 md:mt-5 md:text-xl md:font-bold text-blue-900">
+            <h2 className="text-base mt-2 md:mt-5 md:text-xl md:font-bold text-[#283618]">
               Agende a sua Sessão de EMT e Transforme a sua Saúde Mental
             </h2>
           </div>
@@ -28,7 +28,7 @@ const Main = () => {
               target="_blank"
               rel="noreferrer"
             >
-              <button className="py-5 w-64 bg-slate-900 text-gray-200">
+              <button className="py-5 w-64 bg-[#283618] text-gray-200">
                 <p className="text-xl">Agende uma sessão</p>
               </button>
             </a>
