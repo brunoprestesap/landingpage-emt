@@ -34,7 +34,7 @@ const Main = () => {
             </div>
           </div>
 
-          <div className="absolute bottom-20 left-20 md:bottom-14 md:right-4 flex flex-col md:flex-row md:mt-5 justify-center md:justify-end items-center">
+          <div className="absolute bottom-20 left-20 md:bottom-14 md:right-20 flex flex-col md:flex-row md:mt-5 justify-center md:justify-end items-center">
             <div className="text-center md:m-3">
               <h2 className="text-sm md:text-lg">
                 clinicadracamilaneiva@gmail.com

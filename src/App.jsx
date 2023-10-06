@@ -1,5 +1,6 @@
 import './App.css'
 import About from './components/About'
+import BtnUp from './components/BtnUp'
 import Contact from './components/Contact'
 import Cta from './components/Cta'
 import Footer from './components/Footer'
@@ -10,6 +11,7 @@ function App() {
 
   return (
     <>
+      <BtnUp />
       <Main />
       <Services />
       <Cta />

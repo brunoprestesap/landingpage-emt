@@ -1,8 +1,6 @@
 import {
   FaInstagram,
-  FaEnvelope,
   FaWhatsapp,
-  FaFacebookSquare,
   FaBars
 } from "react-icons/fa";
 
@@ -18,11 +16,9 @@ const TopBar = () => {
             <FaBars className="text-[#FEFAE0] text-2xl"/>
         </div>
     
-        <div className="w-44 p-3 hidden lg:flex justify-around items-center">
+        <div className="w-28 p-3 hidden lg:flex justify-around items-center">
             <FaInstagram className="text-[#FEFAE0] text-2xl " />
-            <FaEnvelope className="text-[#FEFAE0] text-2xl" />
             <FaWhatsapp className="text-[#FEFAE0] text-2xl" />
-            <FaFacebookSquare className="text-[#FEFAE0] text-2xl" />
         </div>
     </div>
   );
