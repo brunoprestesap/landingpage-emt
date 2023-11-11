@@ -1,8 +1,3 @@
-import React from "react";
-
-/* import { FaInstagram } from "react-icons/fa"; */
-/* import imgAbout from "../assets/IMG_0330.jpeg"; */
-
 const About = () => {
   return (
     <div className="flex flex-col w-full lg:justify-center lg:flex-row md:mb-5">

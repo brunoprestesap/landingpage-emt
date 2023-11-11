@@ -1,7 +1,3 @@
-import React from "react";
-/* import logo from "../assets/logo.png";
-
-import { FaInstagram } from "react-icons/fa"; */
 
 const Footer = () => {
   return (

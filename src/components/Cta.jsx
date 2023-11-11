@@ -1,4 +1,3 @@
-import React from "react";
 import imgCta from "../assets/logo.png";
 
 const Cta = () => {

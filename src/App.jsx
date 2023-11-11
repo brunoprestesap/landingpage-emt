@@ -1,4 +1,3 @@
-import './App.css'
 import About from './components/About'
 import BtnUp from './components/BtnUp'
 import Contact from './components/Contact'

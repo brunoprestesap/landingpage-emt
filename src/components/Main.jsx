@@ -11,7 +11,7 @@ const Main = () => {
 
         {/* Container main */}
         <div className="w-full h-screen absolute top-12 left-0 bg-white/50 justify-center">
-          <div className="max-w-[850px] m-auto h-96 px-5 w-full absolute bottom-60 md:bottom-64">
+          <div className="max-w-[850px] m-auto h-96 px-5 w-full absolute bottom-36 md:bottom-36">
             <div className="border-l-4 border-[#283618] p-2">
               <h1 className="text-4xl md:text-6xl font-bold text-[#283618]">
                 Estimulação Magnética Transcraniana - EMT.
